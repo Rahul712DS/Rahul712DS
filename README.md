@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul712ds&label=Profile%20views&color=0e75b6&style=flat" alt="rahul712ds" /> </p>
 
-- 🔭 I’m currently working on **YouTube Data Harvesting and Warehousing using SQL and Streamlit**
+- 🔭 I’m currently working on **Phonepe Pulse Data Visualization and Exploration:
+A User-Friendly Tool Using Streamlit and Plotly**
 
 - 🌱 I’m currently learning **ML | AI**
 
