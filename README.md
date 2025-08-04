@@ -8,7 +8,7 @@ A User-Friendly Tool Using Streamlit and Plotly**
 
 - 🌱 I’m currently learning **ML | AI**
 
-- 🤝 I’m looking for help **get hired as Data scientist | Data Analysts**
+- 🤝 I’m looking to  **get hired as Data scientist | Data Analysts**
 
 - 📫 How to reach me **rahulraj5017@gmail.com**
 
