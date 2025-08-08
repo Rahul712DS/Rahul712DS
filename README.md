@@ -1,23 +1,53 @@
-<h1 align="center">Hi 👋, I'm Rahul Raj</h1>
-<h3 align="center">Aspiring Data Scientist | 📊 Data Analyst | Ex-Customer Success (Sr. Executive))</h3>
+# Hi 👋, I'm Rahul Raj  
+![Profile views](https://komarev.com/ghpvc/?username=Rahul712DS&label=Profile%20Views&color=0e75b6&style=for-the-badge)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul712ds&label=Profile%20views&color=0e75b6&style=flat" alt="rahul712ds" /> </p>
+**Aspiring Data Scientist | 📊 Data Analyst | Ex-Customer Success (Sr. Executive)**  
 
-- 🔭 I’m currently working on **Phonepe Pulse Data Visualization and Exploration:
-A User-Friendly Tool Using Streamlit and Plotly**
+🚀 Passionate about transforming raw data into meaningful business insights through **Data Science, Analytics, and Machine Learning**.  
+Currently building **interactive dashboards, ML models, and data pipelines** that deliver real-world impact.  
 
-- 🌱 I’m currently learning **ML | AI**
+---
 
-- 🤝 I’m looking to  **get hired as Data scientist | Data Analysts**
+## 🔭 Current Focus
+- 📈 **PhonePe Pulse Data Visualization and Exploration** – A user-friendly dashboard using **Streamlit & Plotly** to explore transaction patterns across India.  
+- 🤖 Learning and implementing **Machine Learning & AI** for predictive analytics.  
+- 🎯 Aiming to secure a **Data Scientist | Data Analyst** role abroad.  
 
-- 📫 How to reach me **rahulraj5017@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rahul-raj-22534a14b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-raj-22534a14b" height="30" width="40" /></a>
-</p>
+## 🏆 Key Achievements
+- 📊 Built dashboards handling **10M+ transaction data points** with interactive filters and geo-visualization.  
+- 🤝 Collaborated with business stakeholders to **reduce reporting time by 40%** in data analysis workflows.  
+- ⚡ Developed Python scripts to automate data cleaning and transformation for large datasets.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul712ds&show_icons=true&locale=en&layout=compact" alt="rahul712ds" /></p>
+## 🛠 Skills & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Tech Stack | Live Demo / Repo |
+|---------|-------------|------------|------------------|
+| **PhonePe Pulse Data Dashboard** | Visualized 10M+ transactions with interactive filters & maps | Python, Streamlit, Plotly, Pandas | [Repo Link](#) |
+| **YouTube Data Harvesting & Warehousing** | Extracted data from YouTube API, stored it in SQL, and built an interactive Streamlit dashboard for data exploration and analysis | Python, SQL, Streamlit, Pandas | [Repo Link](#) |
+| **Ensemble Learning Models** | Implemented and compared multiple ensemble learning algorithms (Bagging, Boosting, Stacking) for improved prediction accuracy | Python, Scikit-learn, Pandas, Matplotlib | [Repo Link](https://github.com/Rahul712DS/Ensemble-Learning-.git) |
+| **ML Algorithm Comparison** | Benchmarked multiple machine learning algorithms on the same dataset to analyze accuracy, precision, recall, and runtime performance | Python, Scikit-learn, Pandas, Seaborn | [Repo Link](https://github.com/Rahul712DS/ML-Algorithm_.git) |
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raj-22534a14b)  
+📧 Email: rahulraj5017@gmail.com  
+
+---
+
+> 💡 *"Data is the new oil, but insights are the refined fuel that drives business decisions."*  
