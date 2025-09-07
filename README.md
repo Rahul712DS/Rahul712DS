@@ -11,7 +11,7 @@ Currently building **interactive dashboards, ML models, and data pipelines** tha
 ## 🔭 Current Focus
 - 📈 **PhonePe Pulse Data Visualization and Exploration** – A user-friendly dashboard using **Streamlit & Plotly** to explore transaction patterns across India.  
 - 🤖 Learning and implementing **Machine Learning & AI** for predictive analytics.  
-- 🎯 Aiming to secure a **Data Scientist | Data Analyst** role abroad.  
+- 🎯 Aiming to secure a **Data Scientist | Data Analyst** role.  
 
 ---
 
