@@ -37,7 +37,7 @@ Currently building **interactive dashboards, ML models, and data pipelines** tha
 ## 📌 Featured Projects
 | Project | Description | Tech Stack | Live Demo / Repo |
 |---------|-------------|------------|------------------|
-| **Singapore Resale Flat Price Prediction** | Predicted HDB resale prices using historical transaction data. Built a Streamlit app with model deployment, confidence intervals, and EDA insights. | Python, XGBoost, Streamlit, Pandas, Scikit-learn | [Repo Link](https://github.com/Rahul712DS/Singapore-Resale-Flat-Price-Prediction.git) |
+| **Singapore Resale Flat Price Prediction** | Predicted HDB resale prices using historical transaction data. Built a Streamlit app with model deployment, confidence intervals, and EDA insights. | Python, XGBoost, Streamlit, Pandas, Scikit-learn | [Repo Link](https://github.com/Rahul712DS/Singapore-Resale-Flat-Prices-Predicting.git) |
 | **PhonePe Pulse Data Dashboard** | Visualized 10M+ transactions with interactive filters & maps | Python, Streamlit, Plotly, Pandas | [Repo Link](https://github.com/Rahul712DS/Phonepe-Pulse-Data-Visualization-and-Exploration.git) |
 | **YouTube Data Harvesting & Warehousing** | Extracted data from YouTube API, stored it in SQL, and built an interactive Streamlit dashboard for data exploration and analysis | Python, SQL, Streamlit, Pandas | [Repo Link](https://github.com/Rahul712DS/YouTube-Data-Harvesting-and-Warehousing-using-SQL-and-Streamlit.git) |
 | **Ensemble Learning Models** | Implemented and compared multiple ensemble learning algorithms (Bagging, Boosting, Stacking) for improved prediction accuracy | Python, Scikit-learn, Pandas, Matplotlib | [Repo Link](https://github.com/Rahul712DS/Ensemble-Learning-.git) |
